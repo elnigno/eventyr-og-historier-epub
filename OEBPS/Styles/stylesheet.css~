@@ -10,22 +10,14 @@ p {
     font-family: Georgia,  "Palatino Linotype", "Book Antiqua", Palatino, "Times New Roman", serif;
 }
 
-.stanza {
-	font-style: italic;
-}
-
 img {
     display: block; 
     text-align: center; 
     margin: 1em auto;
 }
 
-.image div {
-    font-size: 80%;
-    text-align: center;
-}
+.image div { font-size: 80%;
+             text-align: center; }
 
-.eventyrtitel { 
-    text-align: center;
-    font-size: 150%;
-}
+.eventyrtitel h2 { text-align: center;
+				   font-size: 200%; }

@@ -1,54 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata>
-    <dc:identifier id="bookid">hcandersensevent01ande</dc:identifier>
+    <meta name="cover" content="cover-image" />
     <dc:type>Text</dc:type>
     <dc:title>H. C. Andersens Eventyr of historier</dc:title>
-    <dc:creator xmlns:opf="http://www.idpf.org/2007/opf" opf:file-as="Andersen, H. C. (Hans Christian), 1805-1875" opf:role="aut">H. C. (Hans Christian) Andersen</dc:creator>
-    <dc:creator xmlns:opf="http://www.idpf.org/2007/opf" opf:file-as="Bauditz, Sophus Gustav, 1850-1915" opf:role="aut">Sophus Gustav Bauditz</dc:creator>
-    <dc:creator xmlns:opf="http://www.idpf.org/2007/opf" opf:file-as="Pedersen, Thomas Vilhelm, 1820-1859" opf:role="aut">Thomas Vilhelm Pedersen</dc:creator>
-    <dc:creator xmlns:opf="http://www.idpf.org/2007/opf" opf:file-as="Frølich, Lorenz, 1820-1908" opf:role="aut">Lorenz Frølich</dc:creator>
+    <dc:creator>Andersen, H. C. (Hans Christian), 1805-1875</dc:creator>
+    <dc:creator>Bauditz, Sophus Gustav, 1850-1915</dc:creator>
+    <dc:creator>Pedersen, Thomas Vilhelm, 1820-1859</dc:creator>
+    <dc:creator>Frølich, Lorenz, 1820-1908</dc:creator>
     <dc:subject>Fairy tales</dc:subject>
     <dc:description>27</dc:description>
     <dc:publisher>København, Kristiania, Gyldendal, Nordisk forlag</dc:publisher>
-    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="">1905-01-01</dc:date>
+    <dc:date>1905</dc:date>
     <dc:language>da</dc:language>
-    <dc:contributor xmlns:opf="http://www.idpf.org/2007/opf" opf:role="aut">PIMS - University of Toronto</dc:contributor>
+    <dc:contributor>PIMS - University of Toronto</dc:contributor>
     <dc:source>cart02</dc:source>
-    <meta name="cover" content="cover-image" />
+    <dc:identifier id="bookid">hcandersensevent01ande</dc:identifier>
     <meta content="0.5.902" name="Sigil version" />
   </metadata>
   <manifest>
     <item href="Styles/stylesheet.css" id="css" media-type="text/css" />
-    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
-    <item href="Text/intro.html" id="intro" media-type="application/xhtml+xml" />
-    <item href="Text/leaf0001.html" id="leaf0001" media-type="application/xhtml+xml" />
-    <item href="Text/leaf0002.html" id="leaf0002" media-type="application/xhtml+xml" />
-    <item href="Text/leaf0003.html" id="leaf0003" media-type="application/xhtml+xml" />
-    <item href="Text/leaf0005.html" id="leaf0005" media-type="application/xhtml+xml" />
-    <item href="Text/leaf0007.html" id="leaf0007" media-type="application/xhtml+xml" />
-    <item href="Text/leaf0008.html" id="leaf0008" media-type="application/xhtml+xml" />
-    <item href="Text/leaf0435.html" id="leaf0435" media-type="application/xhtml+xml" />
-    <item href="Text/leaf0436.html" id="leaf0436" media-type="application/xhtml+xml" />
-    <item href="Text/leaf0440.html" id="leaf0440" media-type="application/xhtml+xml" />
-    <item href="Text/preface.xhtml" id="preface" media-type="application/xhtml+xml" />
-    <item href="Text/eventyr01fyrtoejet.xhtml" id="eventyr01fyrtoejet.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/part0001.html" id="part0001" media-type="application/xhtml+xml" />
-    <item href="Text/part0002.html" id="part0002" media-type="application/xhtml+xml" />
-    <item href="Text/part0003.html" id="part0003" media-type="application/xhtml+xml" />
-    <item href="Text/part0004.html" id="part0004" media-type="application/xhtml+xml" />
-    <item href="Text/part0005.html" id="part0005" media-type="application/xhtml+xml" />
     <item href="Images/cover-image.jpg" id="cover-image" media-type="image/jpeg" />
+    <item href="Text/leaf0001.html" id="leaf0001" media-type="application/xhtml+xml" />
+    <item href="Text/intro.html" id="intro" media-type="application/xhtml+xml" />
     <item href="Images/leaf-image0002.jpg" id="leaf-image0002" media-type="image/jpeg" />
+    <item href="Text/leaf0002.html" id="leaf0002" media-type="application/xhtml+xml" />
     <item href="Images/leaf-image0003.jpg" id="leaf-image0003" media-type="image/jpeg" />
+    <item href="Text/leaf0003.html" id="leaf0003" media-type="application/xhtml+xml" />
     <item href="Images/leaf-image0005.jpg" id="leaf-image0005" media-type="image/jpeg" />
+    <item href="Text/leaf0005.html" id="leaf0005" media-type="application/xhtml+xml" />
     <item href="Images/leaf-image0007.jpg" id="leaf-image0007" media-type="image/jpeg" />
+    <item href="Text/leaf0007.html" id="leaf0007" media-type="application/xhtml+xml" />
     <item href="Images/leaf-image0008.jpg" id="leaf-image0008" media-type="image/jpeg" />
-    <item href="Images/leaf-image0435.jpg" id="leaf-image0435" media-type="image/jpeg" />
-    <item href="Images/leaf-image0436.jpg" id="leaf-image0436" media-type="image/jpeg" />
-    <item href="Images/leaf-image0440.jpg" id="leaf-image0440" media-type="image/jpeg" />
-    <item href="Images/picture0.png" id="picture0.png" media-type="image/png" />
-    <item href="Images/picture0b.png" id="picture0b.png" media-type="image/png" />
+    <item href="Text/leaf0008.html" id="leaf0008" media-type="application/xhtml+xml" />
     <item href="Images/picture0.jpg" id="picture0" media-type="image/jpeg" />
     <item href="Images/picture1.jpg" id="picture1" media-type="image/jpeg" />
     <item href="Images/picture2.jpg" id="picture2" media-type="image/jpeg" />
@@ -70,6 +54,7 @@
     <item href="Images/picture18.jpg" id="picture18" media-type="image/jpeg" />
     <item href="Images/picture19.jpg" id="picture19" media-type="image/jpeg" />
     <item href="Images/picture20.jpg" id="picture20" media-type="image/jpeg" />
+    <item href="Text/part0000.html" id="part0000" media-type="application/xhtml+xml" />
     <item href="Images/picture21.jpg" id="picture21" media-type="image/jpeg" />
     <item href="Images/picture22.jpg" id="picture22" media-type="image/jpeg" />
     <item href="Images/picture23.jpg" id="picture23" media-type="image/jpeg" />
@@ -90,6 +75,7 @@
     <item href="Images/picture38.jpg" id="picture38" media-type="image/jpeg" />
     <item href="Images/picture39.jpg" id="picture39" media-type="image/jpeg" />
     <item href="Images/picture40.jpg" id="picture40" media-type="image/jpeg" />
+    <item href="Text/part0001.html" id="part0001" media-type="application/xhtml+xml" />
     <item href="Images/picture41.jpg" id="picture41" media-type="image/jpeg" />
     <item href="Images/picture42.jpg" id="picture42" media-type="image/jpeg" />
     <item href="Images/picture43.jpg" id="picture43" media-type="image/jpeg" />
@@ -124,6 +110,7 @@
     <item href="Images/picture72.jpg" id="picture72" media-type="image/jpeg" />
     <item href="Images/picture73.jpg" id="picture73" media-type="image/jpeg" />
     <item href="Images/picture74.jpg" id="picture74" media-type="image/jpeg" />
+    <item href="Text/part0002.html" id="part0002" media-type="application/xhtml+xml" />
     <item href="Images/picture75.jpg" id="picture75" media-type="image/jpeg" />
     <item href="Images/picture76.jpg" id="picture76" media-type="image/jpeg" />
     <item href="Images/picture77.jpg" id="picture77" media-type="image/jpeg" />
@@ -148,6 +135,7 @@
     <item href="Images/picture96.jpg" id="picture96" media-type="image/jpeg" />
     <item href="Images/picture97.jpg" id="picture97" media-type="image/jpeg" />
     <item href="Images/picture98.jpg" id="picture98" media-type="image/jpeg" />
+    <item href="Text/part0003.html" id="part0003" media-type="application/xhtml+xml" />
     <item href="Images/picture99.jpg" id="picture99" media-type="image/jpeg" />
     <item href="Images/picture100.jpg" id="picture100" media-type="image/jpeg" />
     <item href="Images/picture101.jpg" id="picture101" media-type="image/jpeg" />
@@ -176,8 +164,16 @@
     <item href="Images/picture124.jpg" id="picture124" media-type="image/jpeg" />
     <item href="Images/picture125.jpg" id="picture125" media-type="image/jpeg" />
     <item href="Images/picture126.jpg" id="picture126" media-type="image/jpeg" />
+    <item href="Text/part0004.html" id="part0004" media-type="application/xhtml+xml" />
+    <item href="Images/leaf-image0435.jpg" id="leaf-image0435" media-type="image/jpeg" />
+    <item href="Text/leaf0435.html" id="leaf0435" media-type="application/xhtml+xml" />
+    <item href="Images/leaf-image0436.jpg" id="leaf-image0436" media-type="image/jpeg" />
+    <item href="Text/leaf0436.html" id="leaf0436" media-type="application/xhtml+xml" />
     <item href="Images/picture127.jpg" id="picture127" media-type="image/jpeg" />
-    <item href="Text/part0000_0002.xhtml" id="part0000_0002.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/part0005.html" id="part0005" media-type="application/xhtml+xml" />
+    <item href="Images/leaf-image0440.jpg" id="leaf-image0440" media-type="image/jpeg" />
+    <item href="Text/leaf0440.html" id="leaf0440" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
   </manifest>
   <spine toc="ncx">
     <itemref idref="leaf0001" linear="no" />
@@ -187,9 +183,7 @@
     <itemref idref="leaf0005" linear="no" />
     <itemref idref="leaf0007" linear="no" />
     <itemref idref="leaf0008" linear="no" />
-    <itemref idref="preface" />
-    <itemref idref="eventyr01fyrtoejet.xhtml" />
-    <itemref idref="part0000_0002.xhtml" />
+    <itemref idref="part0000" />
     <itemref idref="part0001" />
     <itemref idref="part0002" />
     <itemref idref="part0003" />
@@ -203,7 +197,7 @@
     <reference href="Text/leaf0001.html" title="Front Cover" type="cover" />
     <reference href="Text/leaf0007.html" title="Title Page" type="title-page" />
     <reference href="Text/leaf0008.html" title="Title Page" type="copyright-page" />
-    <reference href="Text/preface.xhtml" title="Book" type="preface" />
+    <reference href="Text/part0000.html" title="Book" type="text" />
     <reference href="Text/leaf0435.html" title="Title Page" type="toc" />
     <reference href="Text/leaf0436.html" title="Title Page" type="toc" />
   </guide>
