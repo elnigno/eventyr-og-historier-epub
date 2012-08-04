@@ -33,7 +33,6 @@
     <item href="Text/leaf0440.html" id="leaf0440" media-type="application/xhtml+xml" />
     <item href="Text/preface.xhtml" id="preface" media-type="application/xhtml+xml" />
     <item href="Text/eventyr01fyrtoejet.xhtml" id="eventyr01fyrtoejet.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/part0001.html" id="part0001" media-type="application/xhtml+xml" />
     <item href="Text/part0002.html" id="part0002" media-type="application/xhtml+xml" />
     <item href="Text/part0003.html" id="part0003" media-type="application/xhtml+xml" />
     <item href="Text/part0004.html" id="part0004" media-type="application/xhtml+xml" />
@@ -47,8 +46,6 @@
     <item href="Images/leaf-image0435.jpg" id="leaf-image0435" media-type="image/jpeg" />
     <item href="Images/leaf-image0436.jpg" id="leaf-image0436" media-type="image/jpeg" />
     <item href="Images/leaf-image0440.jpg" id="leaf-image0440" media-type="image/jpeg" />
-    <item href="Images/picture0.png" id="picture0.png" media-type="image/png" />
-    <item href="Images/picture0b.png" id="picture0b.png" media-type="image/png" />
     <item href="Images/picture0.jpg" id="picture0" media-type="image/jpeg" />
     <item href="Images/picture1.jpg" id="picture1" media-type="image/jpeg" />
     <item href="Images/picture2.jpg" id="picture2" media-type="image/jpeg" />
@@ -177,7 +174,14 @@
     <item href="Images/picture125.jpg" id="picture125" media-type="image/jpeg" />
     <item href="Images/picture126.jpg" id="picture126" media-type="image/jpeg" />
     <item href="Images/picture127.jpg" id="picture127" media-type="image/jpeg" />
-    <item href="Text/part0000_0002.xhtml" id="part0000_0002.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/eventyr02lilleclausogstorelaus.xhtml" id="eventyr02lilleclausogstorelaus.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/eventyr03prinsessenpaaaerten.xhtml" id="eventyr03prinsessenpaaaerten.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/eventyr04denlilleidasblomster.xhtml" id="eventyr04denlilleidasblomster.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/eventyr05tommelise.xhtml" id="eventyr05tommelise.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/eventyr06denuartigedreng.xhtml" id="eventyr06denuartigedreng.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/eventyr07rejsekammeraten.xhtml" id="eventyr07rejsekammeraten.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/eventyr08denlillehavfrue.xhtml" id="eventyr08denlillehavfrue.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/part0000_0002_0008.xhtml" id="part0000_0002_0008.xhtml" media-type="application/xhtml+xml" />
   </manifest>
   <spine toc="ncx">
     <itemref idref="leaf0001" linear="no" />
@@ -189,8 +193,14 @@
     <itemref idref="leaf0008" linear="no" />
     <itemref idref="preface" />
     <itemref idref="eventyr01fyrtoejet.xhtml" />
-    <itemref idref="part0000_0002.xhtml" />
-    <itemref idref="part0001" />
+    <itemref idref="eventyr02lilleclausogstorelaus.xhtml" />
+    <itemref idref="eventyr03prinsessenpaaaerten.xhtml" />
+    <itemref idref="eventyr04denlilleidasblomster.xhtml" />
+    <itemref idref="eventyr05tommelise.xhtml" />
+    <itemref idref="eventyr06denuartigedreng.xhtml" />
+    <itemref idref="eventyr07rejsekammeraten.xhtml" />
+    <itemref idref="eventyr08denlillehavfrue.xhtml" />
+    <itemref idref="part0000_0002_0008.xhtml" />
     <itemref idref="part0002" />
     <itemref idref="part0003" />
     <itemref idref="part0004" />
