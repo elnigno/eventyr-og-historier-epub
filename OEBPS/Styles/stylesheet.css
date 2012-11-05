@@ -30,3 +30,12 @@ img {
     text-align: center;
     font-size: 150%;
 }
+
+.note { 
+    font-size: small;
+    text-indent: 0em;
+    margin-right: 3em;
+    margin-left: 3em;
+    margin-top: 1em;
+    margin-bottom: 1en;
+}

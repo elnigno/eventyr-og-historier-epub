@@ -4,7 +4,7 @@
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
     <meta name="dtb:uid" content="hcandersensevent01ande" />
-    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:depth" content="2" />
     <meta name="dtb:totalPageCount" content="0" />
     <meta name="dtb:maxPageNumber" content="0" />
   </head>
@@ -59,6 +59,54 @@
         <text>Den lille Havfrue.</text>
       </navLabel>
       <content src="Text/eventyr08denlillehavfrue.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Kejserens ny Klæder.</text>
+      </navLabel>
+      <content src="Text/eventyr09kejserensnyklaeder.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Lykkens Galocher.</text>
+      </navLabel>
+      <content src="Text/eventyr10lykkensgalocher.xhtml" />
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>I. En Begyndelse.</text>
+        </navLabel>
+        <content src="Text/eventyr10lykkensgalocher.xhtml#sigil_toc_id_11" />
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>II. Hvordledes det gik Justitsraaden.</text>
+        </navLabel>
+        <content src="Text/eventyr10lykkensgalocher.xhtml#sigil_toc_id_12" />
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>III. Vægterens Eventyr.</text>
+        </navLabel>
+        <content src="Text/eventyr10lykkensgalocher.xhtml#sigil_toc_id_13" />
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>IV. Et Hovedmoment. Et Deklamationsnummer. En højst usædvanlig Rejse.</text>
+        </navLabel>
+        <content src="Text/eventyr10lykkensgalocher.xhtml#sigil_toc_id_14" />
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>V. Kopistens Forvandling.</text>
+        </navLabel>
+        <content src="Text/eventyr10lykkensgalocher.xhtml#sigil_toc_id_15" />
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>VI. Det bedste, Galocherne bragte.</text>
+        </navLabel>
+        <content src="Text/eventyr10lykkensgalocher.xhtml#sigil_toc_id_16" />
+      </navPoint>
     </navPoint>
   </navMap>
 </ncx>
