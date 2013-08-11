@@ -16,8 +16,8 @@
     <dc:contributor xmlns:opf="http://www.idpf.org/2007/opf" opf:role="aut">PIMS - University of Toronto</dc:contributor>
     <dc:source>cart02</dc:source>
     <meta name="cover" content="cover-image" />
-    <meta content="0.6.0" name="Sigil version" />
-    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2012-11-04</dc:date>
+    <meta content="0.7.2" name="Sigil version" />
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2013-08-11</dc:date>
   </metadata>
   <manifest>
     <item href="Styles/stylesheet.css" id="css" media-type="text/css" />
@@ -185,6 +185,7 @@
     <item href="Text/Section0002.html" id="Section0002.html" media-type="application/xhtml+xml" />
     <item href="Text/eventyr09kejserensnyklaeder.xhtml" id="eventyr09kejserensnyklaeder.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/eventyr10lykkensgalocher.xhtml" id="eventyr10lykkensgalocher.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/eventyr11gaaseurten.xhtml" id="eventyr11gaaseurten.xhtml" media-type="application/xhtml+xml" />
   </manifest>
   <spine toc="ncx">
     <itemref idref="leaf0001" linear="no" />
@@ -205,6 +206,7 @@
     <itemref idref="eventyr08denlillehavfrue.xhtml" />
     <itemref idref="eventyr09kejserensnyklaeder.xhtml" />
     <itemref idref="eventyr10lykkensgalocher.xhtml" />
+    <itemref idref="eventyr11gaaseurten.xhtml" />
     <itemref idref="Section0002.html" />
     <itemref idref="part0002" />
     <itemref idref="part0003" />
