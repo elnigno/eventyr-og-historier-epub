@@ -187,6 +187,7 @@
     <item href="Text/eventyr12denstandhaftigetinsoldat.xhtml" id="eventyr12denstandhaftigetinsoldat.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/eventyr13devildesvaner.xhtml" id="eventyr13devildesvaner.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/eventyr15denflyvendekoffert.xhtml" id="eventyr15denflyvendekoffert.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/eventyr16storkene.xhtml" id="eventyr16storkene.xhtml" media-type="application/xhtml+xml" />
   </manifest>
   <spine toc="ncx">
     <itemref idref="leaf0001" linear="no" />
@@ -212,6 +213,7 @@
     <itemref idref="eventyr13devildesvaner.xhtml" />
     <itemref idref="eventyr14paradisetshave.xhtml" />
     <itemref idref="eventyr15denflyvendekoffert.xhtml" />
+    <itemref idref="eventyr16storkene.xhtml" />
     <itemref idref="Section0001.xhtml" />
     <itemref idref="leaf0435" linear="no" />
     <itemref idref="leaf0436" linear="no" />
