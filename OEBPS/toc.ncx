@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
  "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="hcandersensevent01ande" />
-    <meta name="dtb:depth" content="2" />
-    <meta name="dtb:totalPageCount" content="0" />
-    <meta name="dtb:maxPageNumber" content="0" />
+    <meta content="hcandersensevent01ande" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
   </head>
   <docTitle>
     <text>H. C. Andersens Eventyr of historier</text>
@@ -16,109 +16,115 @@
       <navLabel>
         <text>Fyrtøjet.</text>
       </navLabel>
-      <content src="Text/eventyr01fyrtoejet.xhtml" />
+      <content src="Text/eventyr01fyrtoejet.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-2" playOrder="2">
       <navLabel>
         <text>Lille Claus og Store Claus.</text>
       </navLabel>
-      <content src="Text/eventyr02lilleclausogstorelaus.xhtml" />
+      <content src="Text/eventyr02lilleclausogstorelaus.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-3" playOrder="3">
       <navLabel>
         <text>Prinsessen paa Ærten.</text>
       </navLabel>
-      <content src="Text/eventyr03prinsessenpaaaerten.xhtml" />
+      <content src="Text/eventyr03prinsessenpaaaerten.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-4" playOrder="4">
       <navLabel>
         <text>Den lille Idas Blomster.</text>
       </navLabel>
-      <content src="Text/eventyr04denlilleidasblomster.xhtml" />
+      <content src="Text/eventyr04denlilleidasblomster.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-5" playOrder="5">
       <navLabel>
         <text>Tommelise.</text>
       </navLabel>
-      <content src="Text/eventyr05tommelise.xhtml" />
+      <content src="Text/eventyr05tommelise.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-6" playOrder="6">
       <navLabel>
         <text>Den uartige Dreng.</text>
       </navLabel>
-      <content src="Text/eventyr06denuartigedreng.xhtml" />
+      <content src="Text/eventyr06denuartigedreng.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-7" playOrder="7">
       <navLabel>
         <text>Rejsekammeraten.</text>
       </navLabel>
-      <content src="Text/eventyr07rejsekammeraten.xhtml" />
+      <content src="Text/eventyr07rejsekammeraten.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-8" playOrder="8">
       <navLabel>
         <text>Den lille Havfrue.</text>
       </navLabel>
-      <content src="Text/eventyr08denlillehavfrue.xhtml" />
+      <content src="Text/eventyr08denlillehavfrue.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-9" playOrder="9">
       <navLabel>
         <text>Kejserens ny Klæder.</text>
       </navLabel>
-      <content src="Text/eventyr09kejserensnyklaeder.xhtml" />
+      <content src="Text/eventyr09kejserensnyklaeder.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-10" playOrder="10">
       <navLabel>
         <text>Lykkens Galocher.</text>
       </navLabel>
-      <content src="Text/eventyr10lykkensgalocher.xhtml" />
+      <content src="Text/eventyr10lykkensgalocher.xhtml"/>
       <navPoint id="navPoint-11" playOrder="11">
         <navLabel>
           <text>I. En Begyndelse.</text>
         </navLabel>
-        <content src="Text/eventyr10lykkensgalocher.xhtml#sigil_toc_id_1" />
+        <content src="Text/eventyr10lykkensgalocher.xhtml#sigil_toc_id_1"/>
       </navPoint>
       <navPoint id="navPoint-12" playOrder="12">
         <navLabel>
           <text>II. Hvordledes det gik Justitsraaden.</text>
         </navLabel>
-        <content src="Text/eventyr10lykkensgalocher.xhtml#sigil_toc_id_2" />
+        <content src="Text/eventyr10lykkensgalocher.xhtml#sigil_toc_id_2"/>
       </navPoint>
       <navPoint id="navPoint-13" playOrder="13">
         <navLabel>
           <text>III. Vægterens Eventyr.</text>
         </navLabel>
-        <content src="Text/eventyr10lykkensgalocher.xhtml#sigil_toc_id_3" />
+        <content src="Text/eventyr10lykkensgalocher.xhtml#sigil_toc_id_3"/>
       </navPoint>
       <navPoint id="navPoint-14" playOrder="14">
         <navLabel>
           <text>IV. Et Hovedmoment. Et Deklamationsnummer. En højst usædvanlig Rejse.</text>
         </navLabel>
-        <content src="Text/eventyr10lykkensgalocher.xhtml#sigil_toc_id_4" />
+        <content src="Text/eventyr10lykkensgalocher.xhtml#sigil_toc_id_4"/>
       </navPoint>
       <navPoint id="navPoint-15" playOrder="15">
         <navLabel>
           <text>V. Kopistens Forvandling.</text>
         </navLabel>
-        <content src="Text/eventyr10lykkensgalocher.xhtml#sigil_toc_id_5" />
+        <content src="Text/eventyr10lykkensgalocher.xhtml#sigil_toc_id_5"/>
       </navPoint>
       <navPoint id="navPoint-16" playOrder="16">
         <navLabel>
           <text>VI. Det bedste, Galocherne bragte.</text>
         </navLabel>
-        <content src="Text/eventyr10lykkensgalocher.xhtml#sigil_toc_id_6" />
+        <content src="Text/eventyr10lykkensgalocher.xhtml#sigil_toc_id_6"/>
       </navPoint>
     </navPoint>
     <navPoint id="navPoint-17" playOrder="17">
       <navLabel>
         <text>Gaaseurten.</text>
       </navLabel>
-      <content src="Text/eventyr11gaaseurten.xhtml" />
+      <content src="Text/eventyr11gaaseurten.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-18" playOrder="18">
       <navLabel>
         <text>Den standhaftige Tinsoldat.</text>
       </navLabel>
-      <content src="Text/eventyr12denstandhaftigetinsoldat.xhtml" />
+      <content src="Text/eventyr12denstandhaftigetinsoldat.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>De vilde Svaner.</text>
+      </navLabel>
+      <content src="Text/eventyr13devildesvaner.xhtml"/>
     </navPoint>
   </navMap>
 </ncx>
