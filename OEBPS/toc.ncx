@@ -198,5 +198,11 @@
       </navLabel>
       <content src="Text/eventyr18svinedrengen.xhtml" />
     </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Boghveden.</text>
+      </navLabel>
+      <content src="Text/eventyr19boghveden.xhtml" />
+    </navPoint>
   </navMap>
 </ncx>
