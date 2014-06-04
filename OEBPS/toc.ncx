@@ -204,5 +204,11 @@
       </navLabel>
       <content src="Text/eventyr19boghveden.xhtml" />
     </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Engelen.</text>
+      </navLabel>
+      <content src="Text/eventyr20engelen.xhtml" />
+    </navPoint>
   </navMap>
 </ncx>
