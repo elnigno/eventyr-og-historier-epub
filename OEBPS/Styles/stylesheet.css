@@ -31,6 +31,16 @@ img {
     font-size: 150%;
 }
 
+.eventyrsubtitel { 
+    text-align: center;
+    font-size: 75%;
+}
+
+.eventyrafsnit { 
+    text-align: center;
+    font-size: 110%;
+}
+
 .note { 
     font-size: small;
     text-indent: 0em;

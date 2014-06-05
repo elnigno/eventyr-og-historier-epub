@@ -228,5 +228,59 @@
       </navLabel>
       <content src="Text/eventyr23dengrimmeaelling.xhtml" />
     </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Grantræet.</text>
+      </navLabel>
+      <content src="Text/eventyr24grantraet.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Snedronningen.</text>
+      </navLabel>
+      <content src="Text/eventyr25snedronningen.xhtml" />
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Første Historie, der handler om Spejlet og Stumperne.</text>
+        </navLabel>
+        <content src="Text/eventyr25snedronningen.xhtml#sigil_toc_id_14" />
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Anden Historie. En lille Dreng og en lille Pige.</text>
+        </navLabel>
+        <content src="Text/eventyr25snedronningen.xhtml#sigil_toc_id_15" />
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Tredie Historie. Blomsterhaven hos Konen, der kunde Trolddom.</text>
+        </navLabel>
+        <content src="Text/eventyr25snedronningen.xhtml#sigil_toc_id_16" />
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Fjerde Historie. Prins og Prinsesse.</text>
+        </navLabel>
+        <content src="Text/eventyr25snedronningen.xhtml#sigil_toc_id_17" />
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Femte Historie. Den lille Røver pige.</text>
+        </navLabel>
+        <content src="Text/eventyr25snedronningen.xhtml#sigil_toc_id_18" />
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>Sjette Historie. Lappekonen og Finnekonen.</text>
+        </navLabel>
+        <content src="Text/eventyr25snedronningen.xhtml#sigil_toc_id_19" />
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Syvende Historie. Hvad der skete i Snedronningens Slot, og hvad der siden skete.</text>
+        </navLabel>
+        <content src="Text/eventyr25snedronningen.xhtml#sigil_toc_id_20" />
+      </navPoint>
+    </navPoint>
   </navMap>
 </ncx>

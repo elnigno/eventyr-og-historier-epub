@@ -195,6 +195,8 @@
     <item href="Text/eventyr21nattergalen.xhtml" id="eventyr21nattergalen.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/eventyr22kaerestefolkene.xhtml" id="eventyr22kaerestefolkene.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/eventyr23dengrimmeaelling.xhtml" id="eventyr23dengrimmeaelling.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/eventyr24grantraet.xhtml" id="eventyr24grantraet.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/eventyr25snedronningen.xhtml" id="eventyr25snedronningen.xhtml" media-type="application/xhtml+xml" />
   </manifest>
   <spine toc="ncx">
     <itemref idref="leaf0001" linear="no" />
@@ -228,6 +230,8 @@
     <itemref idref="eventyr21nattergalen.xhtml" />
     <itemref idref="eventyr22kaerestefolkene.xhtml" />
     <itemref idref="eventyr23dengrimmeaelling.xhtml" />
+    <itemref idref="eventyr24grantraet.xhtml" />
+    <itemref idref="eventyr25snedronningen.xhtml" />
     <itemref idref="Section0002.xhtml" />
     <itemref idref="leaf0435" linear="no" />
     <itemref idref="leaf0436" linear="no" />
