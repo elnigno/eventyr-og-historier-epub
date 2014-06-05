@@ -210,5 +210,23 @@
       </navLabel>
       <content src="Text/eventyr20engelen.xhtml" />
     </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Nattergalen.</text>
+      </navLabel>
+      <content src="Text/eventyr21nattergalen.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Kærestefolkene.</text>
+      </navLabel>
+      <content src="Text/eventyr22kaerestefolkene.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Den grimme Ælling.</text>
+      </navLabel>
+      <content src="Text/eventyr23dengrimmeaelling.xhtml" />
+    </navPoint>
   </navMap>
 </ncx>

@@ -188,10 +188,13 @@
     <item href="Text/eventyr15denflyvendekoffert.xhtml" id="eventyr15denflyvendekoffert.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/eventyr16storkene.xhtml" id="eventyr16storkene.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/eventyr17olelukoeje.xhtml" id="eventyr17olelukoeje.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/eventyr18svinedrengen.xhtml" id="eventyr18svinedrengen.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/eventyr19boghveden.xhtml" id="eventyr19boghveden.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/eventyr20engelen.xhtml" id="eventyr20engelen.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/eventyr21nattergalen.xhtml" id="eventyr21nattergalen.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/eventyr22kaerestefolkene.xhtml" id="eventyr22kaerestefolkene.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/eventyr23dengrimmeaelling.xhtml" id="eventyr23dengrimmeaelling.xhtml" media-type="application/xhtml+xml" />
   </manifest>
   <spine toc="ncx">
     <itemref idref="leaf0001" linear="no" />
@@ -222,7 +225,10 @@
     <itemref idref="eventyr18svinedrengen.xhtml" />
     <itemref idref="eventyr19boghveden.xhtml" />
     <itemref idref="eventyr20engelen.xhtml" />
-    <itemref idref="Section0001.xhtml" />
+    <itemref idref="eventyr21nattergalen.xhtml" />
+    <itemref idref="eventyr22kaerestefolkene.xhtml" />
+    <itemref idref="eventyr23dengrimmeaelling.xhtml" />
+    <itemref idref="Section0002.xhtml" />
     <itemref idref="leaf0435" linear="no" />
     <itemref idref="leaf0436" linear="no" />
     <itemref idref="part0005" />
