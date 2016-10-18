@@ -287,5 +287,41 @@
       </navLabel>
       <content src="Text/eventyr26hyldemor.xhtml"/>
     </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>Stoppenaalen.</text>
+      </navLabel>
+      <content src="Text/eventyr27stoppenaalen.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>Klokken.</text>
+      </navLabel>
+      <content src="Text/eventyr28klokken.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>Elverhøj.</text>
+      </navLabel>
+      <content src="Text/eventyr29elverhoej.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>De røde Sko.</text>
+      </navLabel>
+      <content src="Text/eventyr30deroedesko.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>Springfyrene.</text>
+      </navLabel>
+      <content src="Text/eventyr31springfyrene.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>Hyrdinden og Skorstensfejeren.</text>
+      </navLabel>
+      <content src="Text/eventyr32hyrdinenogskorstensfejeren.xhtml"/>
+    </navPoint>
   </navMap>
 </ncx>

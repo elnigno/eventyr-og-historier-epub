@@ -198,6 +198,12 @@
     <item href="Text/eventyr24grantraet.xhtml" id="eventyr24grantraet.xhtml" media-type="application/xhtml+xml"/>
     <item href="Text/eventyr25snedronningen.xhtml" id="eventyr25snedronningen.xhtml" media-type="application/xhtml+xml"/>
     <item href="Text/eventyr26hyldemor.xhtml" id="eventyr26hyldemor.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eventyr27stoppenaalen.xhtml" id="eventyr27stoppenaalen.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eventyr28klokken.xhtml" id="eventyr28klokken.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eventyr29elverhoej.xhtml" id="eventyr29elverhoej.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eventyr30deroedesko.xhtml" id="eventyr30deroedesko.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eventyr31springfyrene.xhtml" id="eventyr31springfyrene.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eventyr32hyrdinenogskorstensfejeren.xhtml" id="eventyr32hyrdinenogskorstensfejeren.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="leaf0001" linear="no"/>
@@ -234,6 +240,12 @@
     <itemref idref="eventyr24grantraet.xhtml"/>
     <itemref idref="eventyr25snedronningen.xhtml"/>
     <itemref idref="eventyr26hyldemor.xhtml"/>
+    <itemref idref="eventyr27stoppenaalen.xhtml"/>
+    <itemref idref="eventyr28klokken.xhtml"/>
+    <itemref idref="eventyr29elverhoej.xhtml"/>
+    <itemref idref="eventyr30deroedesko.xhtml"/>
+    <itemref idref="eventyr31springfyrene.xhtml"/>
+    <itemref idref="eventyr32hyrdinenogskorstensfejeren.xhtml"/>
     <itemref idref="Section0001.xhtml"/>
     <itemref idref="leaf0435" linear="no"/>
     <itemref idref="leaf0436" linear="no"/>
