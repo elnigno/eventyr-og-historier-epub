@@ -323,5 +323,29 @@
       </navLabel>
       <content src="Text/eventyr32hyrdinenogskorstensfejeren.xhtml"/>
     </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>Holger Danske.</text>
+      </navLabel>
+      <content src="Text/eventyr33holgerdanske.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>Den lille Pige med Svovlstikkerne.</text>
+      </navLabel>
+      <content src="Text/eventyr34denlillepigemedsvovlstikkerne.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>Nabofamilierne.</text>
+      </navLabel>
+      <content src="Text/eventyr35nabofamilierne.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>Lille Tuk.</text>
+      </navLabel>
+      <content src="Text/eventyr36lilletuk.xhtml"/>
+    </navPoint>
   </navMap>
 </ncx>

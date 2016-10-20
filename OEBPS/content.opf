@@ -17,7 +17,7 @@
     <dc:source>cart02</dc:source>
     <meta name="cover" content="cover-image"/>
     <meta content="0.9.5" name="Sigil version"/>
-    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2016-10-19</dc:date>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2016-10-21</dc:date>
   </metadata>
   <manifest>
     <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
@@ -204,6 +204,11 @@
     <item href="Text/eventyr30deroedesko.xhtml" id="eventyr30deroedesko.xhtml" media-type="application/xhtml+xml"/>
     <item href="Text/eventyr31springfyrene.xhtml" id="eventyr31springfyrene.xhtml" media-type="application/xhtml+xml"/>
     <item href="Text/eventyr32hyrdinenogskorstensfejeren.xhtml" id="eventyr32hyrdinenogskorstensfejeren.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eventyr33holgerdanske.xhtml" id="eventyr33holgerdanske.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/picture95a.png" id="picture95a.png" media-type="image/png"/>
+    <item href="Text/eventyr34denlillepigemedsvovlstikkerne.xhtml" id="eventyr34denlillepigemedsvovlstikkerne.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eventyr35nabofamilierne.xhtml" id="eventyr35nabofamilierne.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eventyr36lilletuk.xhtml" id="eventyr36lilletuk.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="leaf0001" linear="no"/>
@@ -246,6 +251,10 @@
     <itemref idref="eventyr30deroedesko.xhtml"/>
     <itemref idref="eventyr31springfyrene.xhtml"/>
     <itemref idref="eventyr32hyrdinenogskorstensfejeren.xhtml"/>
+    <itemref idref="eventyr33holgerdanske.xhtml"/>
+    <itemref idref="eventyr34denlillepigemedsvovlstikkerne.xhtml"/>
+    <itemref idref="eventyr35nabofamilierne.xhtml"/>
+    <itemref idref="eventyr36lilletuk.xhtml"/>
     <itemref idref="Section0001.xhtml"/>
     <itemref idref="leaf0435" linear="no"/>
     <itemref idref="leaf0436" linear="no"/>
