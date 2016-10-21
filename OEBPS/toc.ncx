@@ -347,5 +347,17 @@
       </navLabel>
       <content src="Text/eventyr36lilletuk.xhtml"/>
     </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>Skyggen.</text>
+      </navLabel>
+      <content src="Text/eventyr37skyggen.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>Det gamle Hus.</text>
+      </navLabel>
+      <content src="Text/eventyr38detgamlehus.xhtml"/>
+    </navPoint>
   </navMap>
 </ncx>
