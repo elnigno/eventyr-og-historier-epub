@@ -209,6 +209,8 @@
     <item href="Text/eventyr34denlillepigemedsvovlstikkerne.xhtml" id="eventyr34denlillepigemedsvovlstikkerne.xhtml" media-type="application/xhtml+xml"/>
     <item href="Text/eventyr35nabofamilierne.xhtml" id="eventyr35nabofamilierne.xhtml" media-type="application/xhtml+xml"/>
     <item href="Text/eventyr36lilletuk.xhtml" id="eventyr36lilletuk.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eventyr37skyggen.xhtml" id="eventyr37skyggen.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eventyr38detgamlehus.xhtml" id="eventyr38detgamlehus.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="leaf0001" linear="no"/>
@@ -255,6 +257,8 @@
     <itemref idref="eventyr34denlillepigemedsvovlstikkerne.xhtml"/>
     <itemref idref="eventyr35nabofamilierne.xhtml"/>
     <itemref idref="eventyr36lilletuk.xhtml"/>
+    <itemref idref="eventyr37skyggen.xhtml"/>
+    <itemref idref="eventyr38detgamlehus.xhtml"/>
     <itemref idref="Section0001.xhtml"/>
     <itemref idref="leaf0435" linear="no"/>
     <itemref idref="leaf0436" linear="no"/>
