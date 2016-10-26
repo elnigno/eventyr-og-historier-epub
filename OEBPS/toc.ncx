@@ -383,5 +383,29 @@
       </navLabel>
       <content src="Text/eventyr42flipperne.xhtml"/>
     </navPoint>
+    <navPoint id="navPoint-63" playOrder="63">
+      <navLabel>
+        <text>Der er Forskel.</text>
+      </navLabel>
+      <content src="Text/eventyr43dererforskel.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-64" playOrder="64">
+      <navLabel>
+        <text>Verdens dejligste Rose.</text>
+      </navLabel>
+      <content src="Text/eventyr44verdensdejligsterose.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-65" playOrder="65">
+      <navLabel>
+        <text>Aarets Historie.</text>
+      </navLabel>
+      <content src="Text/eventyr45aaretshistorie.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-66" playOrder="66">
+      <navLabel>
+        <text>Det er ganske vist!</text>
+      </navLabel>
+      <content src="Text/eventyr46deterganskevist.xhtml"/>
+    </navPoint>
   </navMap>
 </ncx>
