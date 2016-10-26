@@ -359,5 +359,29 @@
       </navLabel>
       <content src="Text/eventyr38detgamlehus.xhtml"/>
     </navPoint>
+    <navPoint id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>Vanddraaben.</text>
+      </navLabel>
+      <content src="Text/eventyr39vanddraaben.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>Den lykkelige Familie.</text>
+      </navLabel>
+      <content src="Text/eventyr40denlykkeligefamilie.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-61" playOrder="61">
+      <navLabel>
+        <text>Historien om en Moder.</text>
+      </navLabel>
+      <content src="Text/eventyr41historienomenmoder.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-62" playOrder="62">
+      <navLabel>
+        <text>Flipperne.</text>
+      </navLabel>
+      <content src="Text/eventyr42flipperne.xhtml"/>
+    </navPoint>
   </navMap>
 </ncx>

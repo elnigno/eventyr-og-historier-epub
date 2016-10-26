@@ -17,7 +17,7 @@
     <dc:source>cart02</dc:source>
     <meta name="cover" content="cover-image"/>
     <meta content="0.9.5" name="Sigil version"/>
-    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2016-10-21</dc:date>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2016-10-26</dc:date>
   </metadata>
   <manifest>
     <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
@@ -211,6 +211,10 @@
     <item href="Text/eventyr36lilletuk.xhtml" id="eventyr36lilletuk.xhtml" media-type="application/xhtml+xml"/>
     <item href="Text/eventyr37skyggen.xhtml" id="eventyr37skyggen.xhtml" media-type="application/xhtml+xml"/>
     <item href="Text/eventyr38detgamlehus.xhtml" id="eventyr38detgamlehus.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eventyr39vanddraaben.xhtml" id="eventyr39vanddraaben.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eventyr40denlykkeligefamilie.xhtml" id="eventyr40denlykkeligefamilie.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eventyr41historienomenmoder.xhtml" id="eventyr41historienomenmoder.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/eventyr42flipperne.xhtml" id="eventyr42flipperne.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="leaf0001" linear="no"/>
@@ -259,6 +263,10 @@
     <itemref idref="eventyr36lilletuk.xhtml"/>
     <itemref idref="eventyr37skyggen.xhtml"/>
     <itemref idref="eventyr38detgamlehus.xhtml"/>
+    <itemref idref="eventyr39vanddraaben.xhtml"/>
+    <itemref idref="eventyr40denlykkeligefamilie.xhtml"/>
+    <itemref idref="eventyr41historienomenmoder.xhtml"/>
+    <itemref idref="eventyr42flipperne.xhtml"/>
     <itemref idref="Section0001.xhtml"/>
     <itemref idref="leaf0435" linear="no"/>
     <itemref idref="leaf0436" linear="no"/>
